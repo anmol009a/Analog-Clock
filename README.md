@@ -11,6 +11,16 @@ This project is an implementation of an analog clock using JavaScript, HTML, and
 ## Live Demo
 You can view a live demo of the analog clock [here](https://anmol009a.github.io/Analog-Clock/).
 
+## Embedding in an iFrame
+
+To embed the analog clock in an iframe, you can use the following HTML code:
+
+```html
+<iframe src="https://anmol009a.github.io/Analog-Clock/" width="300" height="300" frameborder="0" title="Analog-Clock"></iframe>
+```
+
+You can adjust the `width` and `height` attributes to fit your needs.
+
 ## Installation
 
 1. Clone the repository:

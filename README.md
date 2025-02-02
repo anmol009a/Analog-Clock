@@ -8,6 +8,9 @@ This project is an implementation of an analog clock using JavaScript, HTML, and
 - Responsive design that works on different screen sizes.
 - Smooth animations for the clock hands.
 
+## Live Demo
+You can view a live demo of the analog clock [here](https://anmol009a.github.io/Analog-Clock/).
+
 ## Installation
 
 1. Clone the repository:
